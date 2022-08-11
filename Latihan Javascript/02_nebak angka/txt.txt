@@ -1,0 +1,6 @@
+game tebak angka
+rules:
+menabak angka dari 1 sampai  10
+bilangan ya bilangan bulat
+pada permainan dikasih 3 kesempatan
+
